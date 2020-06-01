@@ -48,3 +48,6 @@ Non-maximal Suppression is implemented in a few steps.
 3. Select the bounding box with the highest Pc value.
 4. Remove all the bounding boxes that have a high IoU* with the box selected in the last step.
 A high IoU usually means a that the IoU is greater than or equal to 0.5.
+
+## References and links
+Udactiy https://github.com/udacity/CVND_Exercises/tree/master/2_2_YOLO
