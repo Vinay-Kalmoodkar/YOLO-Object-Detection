@@ -50,4 +50,5 @@ Non-maximal Suppression is implemented in a few steps.
 A high IoU usually means a that the IoU is greater than or equal to 0.5.
 
 ## References and links
-Udactiy https://github.com/udacity/CVND_Exercises/tree/master/2_2_YOLO
+YOLO https://pjreddie.com/darknet/yolo/
+Udacity https://github.com/udacity/CVND_Exercises/tree/master/2_2_YOLO
